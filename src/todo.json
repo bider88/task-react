@@ -19,39 +19,15 @@
             "priority": true
         },
         {
-            "title": "Task 1",
+            "title": "Task 4",
             "responsable": "Me",
             "description": "lorem ipsum",
             "priority": true
         },
         {
-            "title": "Tarea 2",
+            "title": "Tarea 5",
             "responsable": "Albertano",
             "description": "lorem ipsum 2",
-            "priority": false
-        },
-        {
-            "title": "Todo 3",
-            "responsable": "John",
-            "description": "lorem ipsum 3",
-            "priority": true
-        },
-        {
-            "title": "Task 1",
-            "responsable": "Me",
-            "description": "lorem ipsum",
-            "priority": true
-        },
-        {
-            "title": "Tarea 2",
-            "responsable": "Albertano",
-            "description": "lorem ipsum 2",
-            "priority": false
-        },
-        {
-            "title": "Todo 3",
-            "responsable": "John",
-            "description": "lorem ipsum 3",
             "priority": false
         }
     ]
